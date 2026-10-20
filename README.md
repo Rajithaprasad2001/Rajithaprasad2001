@@ -26,7 +26,7 @@
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,java&perline=7" alt="C, C++, C sharp, JavaScript, HTML, CSS and Java" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,java,python,linux&perline=9" alt="C, C++, C sharp, JavaScript, HTML, CSS, Java, Python and Linux" />
 </p>
 
 **Frameworks & databases**
@@ -47,6 +47,9 @@
 </p>
 
 <p align="center"><i>Learning, building, and figuring out what's possible. 🚀</i></p>
+
+
+
 
 
 
