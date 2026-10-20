@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&lines=Exploring+DevOps+and+Cloud;Learning+AI%2FML+and+Blockchain;Building+ideas+with+code" alt="Animated intro: DevOps, cloud, AI/ML and blockchain" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rajithaprasad2001&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
 ---
 
 ### 👨‍💻 About me
@@ -19,10 +15,24 @@
 - ⛓️ Curious about **blockchain and crypto markets**
 - 🌱 Always learning and looking for interesting things to build
 
-### 🛠️ Languages, frameworks & databases
+### 🧭 What I'm exploring
+
+- Cloud infrastructure, automation, and DevOps practices
+- Practical AI/ML applications and autonomous agents
+- Blockchain technology and algorithmic trading ideas
+
+### 🛠️ Technologies I'm learning
+
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,java,spring,mysql,mongodb&perline=10" alt="C, C++, C sharp, JavaScript, HTML, CSS, Java, Spring, MySQL and MongoDB" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,js,html,css,java&perline=7" alt="C, C++, C sharp, JavaScript, HTML, CSS and Java" />
+</p>
+
+**Frameworks & databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,mongodb&perline=7" alt="Spring, MySQL and MongoDB" />
 </p>
 
 ### 📈 GitHub
@@ -36,7 +46,8 @@
   <img src="https://streak-stats.demolab.com?user=Rajithaprasad2001&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-<p align="center"><i>Learning, building, and figuring out what’s possible. 🚀</i></p>
+<p align="center"><i>Learning, building, and figuring out what's possible. 🚀</i></p>
+
 
 
 <!--
